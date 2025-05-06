@@ -8,7 +8,7 @@ Explore each project individually and view live demos to see them in action:
 
 |  #  | Project                                                                | Live Demo     |
 | :-: | ---------------------------------------------------------------------- | ------------- |
-| 001 | [Expanding Cards](001-expanding%20cards)                               | [Live Demo]() |
+| 001 | [Expanding Cards](001-expanding%20cards)                               | [Live Demo](https://codepen.io/3bdo-mo7amed-999/full/KwweqQM) |
 | 002 | [Progress Steps](002-progress%20steps)                                 | [Live Demo]() |
 | 003 | [Rotating Navigation Animation](003-rotating%20navigation)             | [Live Demo]() |
 | 004 | [Hidden Search Widget](004-hidden%20search%20widget)                   | [Live Demo]() |
